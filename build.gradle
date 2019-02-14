@@ -22,6 +22,7 @@ apply plugin: 'idea'
 apply plugin: 'io.franzbecker.gradle-lombok'
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
+apply plugin: 'jacoco'
 
 bootJar {
     baseName = 'gs-messaging-jms'
