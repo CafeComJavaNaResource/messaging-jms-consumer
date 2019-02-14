@@ -3,6 +3,7 @@
 ## Consumer
 
 [![Build Status](https://travis-ci.com/CafeComJavaNaResource/messaging-jms-consumer.svg?branch=master)](https://travis-ci.com/CafeComJavaNaResource/messaging-jms-consumer)
+[![Coverage Status](https://coveralls.io/repos/github/CafeComJavaNaResource/messaging-jms-consumer/badge.svg?branch=master)](https://coveralls.io/github/CafeComJavaNaResource/messaging-jms-consumer?branch=master)
 
 Este projeto foi desenvolvido para o encontro Café com Java realizado na Resource IT.
 
